@@ -1,0 +1,23 @@
+json{
+  "title": "AI Technology Advancement Newsletter",
+  "lastUpdated": "2025-01-01",
+  "sources": {
+    "news": [
+      "techcrunch",
+      "theverge", 
+      "venturebeat",
+      "wired"
+    ],
+    "research": [
+      "arxiv",
+      "paperwithcode"
+    ]
+  },
+  "updateSchedule": "daily",
+  "sections": {
+    "breakingNews": 4,
+    "tools": 4,
+    "projects": 3,
+    "research": 3
+  }
+}
